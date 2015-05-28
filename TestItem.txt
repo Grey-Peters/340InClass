@@ -5,3 +5,7 @@ It is rather basic.
 This is a new line.
 
 This is a change unique to the first branch.
+
+This is a second change.
+
+This is a third change.
