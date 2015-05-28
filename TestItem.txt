@@ -1,3 +1,5 @@
 This is a test file for Git.
 
-It is very basic.
+It is rather basic.
+
+This is a new line.
